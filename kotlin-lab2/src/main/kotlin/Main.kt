@@ -6,7 +6,7 @@ import kotlinx.coroutines.runBlocking
 /**
  * Точка входа для тестирования лабораторной работы №2.
  *
- * @author Лаврентьев Аврам Петрович
+ * @author Черемисов Денис Юрьевич
  * @version 1.0
  * @since 2026-09-03
  */
