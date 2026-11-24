@@ -15,7 +15,7 @@ fun main() {
 
     // Блок 1. Базовый синтаксис
     println(" Блок 1. Базовый синтаксис ")
-    println(BasicSyntax.greetUser("Аврам", 20))
+    println(BasicSyntax.greetUser("Денис", 20))
     println(BasicSyntax.getSeason(3))
     println(BasicSyntax.factorial(5))
     println()
